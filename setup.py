@@ -7,8 +7,8 @@ long_description = 'long description'#fh.read()
 
 setuptools.setup(
     name="k2sc_tools",
-    version=soyspacing.__version__,
-    author=soyspacing.__author__,
+    version=k2sc_tools.__version__,
+    author=k2sc_tools.__author__,
     author_email='chun3842@gmail.com',
     description="kb_ftc_team_k2sc_tools",
     long_description=long_description,
@@ -18,8 +18,8 @@ setuptools.setup(
     install_requires=["numpy>=1.12.0", "pandas>=0.25.3"],
     classifiers=(
         "Programming Language :: Python :: 3.6",
-#         "License :: Beerware license",
-#         "Operating System :: OS Independent",
+        "License :: Beerware license",
+        "Operating System :: OS Independent",
     ),
     keywords = [
         'Natural-Language-Processing',
