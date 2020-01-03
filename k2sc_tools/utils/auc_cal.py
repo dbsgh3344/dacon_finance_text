@@ -9,8 +9,8 @@ Original file is located at
 
 # [정보]_평가지표(AUC)_계산함수분석.ipynb
 
-from google.colab import drive
-drive.mount('/content/drive')
+# from google.colab import drive
+# drive.mount('/content/drive')
 
 import numpy as np
 from sklearn import metrics
