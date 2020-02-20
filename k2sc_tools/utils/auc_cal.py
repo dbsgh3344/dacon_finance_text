@@ -38,8 +38,8 @@ def Auc_cal(all_len,a):
 # 함수 불러오기
 # 파일이 두번째행 확률, 세번째행 1,0으로 답이 있어야함
 
-all_len = 400 #행 길이
-a = pd.read_excel('/content/drive/My Drive/bert_for_practics/human_m.xlsx') #경로
+# all_len = 400 #행 길이
+# a = pd.read_excel('/content/drive/My Drive/bert_for_practics/human_m.xlsx') #경로
 
-Auc_cal(all_len,a)
+# Auc_cal(all_len,a)
 
